@@ -4,4 +4,4 @@ If you want to check out this game for yourself, you'll have to replace the `src
 
 This game doesn't have a lot of the things that a user would expect from a real game, such as level selection, lives, or a coins counter. These things wouldn't be particularly difficult to add, however for the purposes of this project I was just focused on implementing the basic gameplay.
 
-Also notable is that the book I'm reading is written for the old version of javascript (3.5, I believe). I know that in the new version there are additionaly features such as the `let` keyword, however to keep things simpler for myself I'm going to learn initially using this book then educate myself about the newer features once I'm finished.
+Also notable is that the book I'm reading is written for the old version of javascript (3.5, I believe). I know that in the new version there are additional features such as the `let` keyword, however to keep things simpler for myself I'm going to learn initially using this book then educate myself about the newer features once I'm finished.
