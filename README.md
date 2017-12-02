@@ -1,0 +1,7 @@
+I'm currently working my way through [Eloquent Javascript](http://eloquentjavascript.net/), and I'm on Chapter 15. That chapter goes through creating a game very much like the one I've written here (based on a game called Dark Blue), and instead of just following along I decided to try to implement it on my own instead. As it turns out my implementation bears very little resemblance to the one that the book provides, however it does work rather well, and aside from potentially being more complex than the implementation provided (although considering this is my first go making something real in javascript, I'll give myself a pass on that), I don't think that there's anything in particular that makes my version worse.
+
+If you want to check out this game for yourself, you'll have to replace the `src` path in `page.html` with wherever you decide to put the `dark-blue.js` file. 
+
+This game doesn't have a lot of the things that a user would expect from a real game, such as level selection, lives, or a coins counter. These things wouldn't be particularly difficult to add, however for the purposes of this project I was just focused on implementing the basic gameplay.
+
+Also notable is that the book I'm reading is written for the old version of javascript (3.5, I believe). I know that in the new version there are additionaly features such as the `let` keyword, however to keep things simpler for myself I'm going to learn initially using this book then educate myself about the newer features once I'm finished.
